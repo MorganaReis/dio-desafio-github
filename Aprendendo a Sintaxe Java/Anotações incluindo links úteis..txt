@@ -1,3 +1,19 @@
 Inicio no dia: 26/01/2023.
-Finalização no dia: xx/xx/xxxx.
+Finalização no dia: xx/xx/xxxx
 
+* Anatomia 1 [ok]
+* Anatomia 2 [ok]
+* Anatomia 3 []
+* Anatomia 4 []
+* Anatomia 5 []
+* Anatomia 6 []
+
+
+
+
+
+
+
+Links:
+
+GitBook: https://glysns.gitbook.io/java-basico/
