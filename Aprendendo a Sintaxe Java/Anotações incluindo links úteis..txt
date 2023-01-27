@@ -1,12 +1,14 @@
 Inicio no dia: 26/01/2023.
 Finalização no dia: xx/xx/xxxx
 
-* Anatomia 1 [ok]
-* Anatomia 2 [ok]
-* Anatomia 3 []
-* Anatomia 4 []
-* Anatomia 5 []
-* Anatomia 6 []
+### Aulas assistidas no dia 27/01/2023:
+
+- Anatomia 1 [X]
+- Anatomia 2 [X]
+- Anatomia 3 [X]
+- Anatomia 4 []
+- Anatomia 5 []
+- Anatomia 6 []
 
 
 
