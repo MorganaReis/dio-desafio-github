@@ -1,5 +1,5 @@
 Inicio no dia: 26/01/2023.
-Finalização no dia: xx/xx/xxxx
+Finalização no dia: 30/01/2023.
 
 Aulas assistidas no dia 27/01/2023:
 
@@ -9,12 +9,53 @@ Aulas assistidas no dia 27/01/2023:
 - Anatomia 4 [X]
 - Anatomia 5 [X]
 - Anatomia 6 [X]
-________________________
+_____________________________
 
 - Tipos e Variáveis 1 [X]
-________________________
+_____________________________
 
 
+Aulas assistidas no dia 30/01/2023:
+
+
+- Tipos e Variáveis 2 [X]
+- Tipos e Variáveis 3 [X]
+- Tipos e Variáveis 4 [X]
+_____________________________
+
+- Operadores 1 [X]
+- Operadores 2 [X]
+- Operadores 3 [X]
+- Operadores 4 [X]
+- Operadores 5 [X]
+- Operadores 6 [X]
+- Operadores 7 [X]
+_____________________________
+
+- Métodos 1 [X]
+- Métodos 2 [X]
+- Métodos 3 [X]
+
+_____________________________
+
+- Escopo 1 [X]
+- Escopo 2 [X]
+_____________________________
+
+- Palavras reservadas 1 [X]
+- Palavras reservadas 2 [X]
+_____________________________
+ 
+- Java Doc 1 [X]
+- Java Doc 2 [X]
+_____________________________
+
+- Terminal e Argumentos 1 [X]
+- Terminal e Argumentos 2 [X]
+- Terminal e Argumentos 3 [X]
+- Terminal e Argumentos 4 [X]
+- Terminal e Argumentos 5 [X]
+_____________________________
 
 
 
@@ -23,3 +64,5 @@ ________________________
 Links:
 
 GitBook: https://glysns.gitbook.io/java-basico/
+
+Certificado: https://digitalinnovation.one/certificate/A2F5509A
