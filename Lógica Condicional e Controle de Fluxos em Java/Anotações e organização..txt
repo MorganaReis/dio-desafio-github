@@ -1,0 +1,36 @@
+Inicio no dia: 03/02/2023.
+Finalização no dia: 03/02/2023.
+
+Aulas assistidas no dia 03/02/2023:
+
+Módulo de Operadores Relacionais.{5} [X]
+
+Operadores Lógicos. {4} [X]
+
+Controle de fluxo. {4} [X]
+
+Blocos, tipos e uso. {2} [X]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Projetos feitos na idea IntelliJ salvos na pasta Dio.
+
+
+
+Links úteis:
+https://github.com/tlcdio/CLBSAula01/tree/master/src/one/digitalinnovation/basecamp
+https://github.com/tlcdio/CLBSAula02
+https://github.com/tlcdio/CLBSAula03
+
+Certificado: https://digitalinnovation.one/certificate/F16ED533
