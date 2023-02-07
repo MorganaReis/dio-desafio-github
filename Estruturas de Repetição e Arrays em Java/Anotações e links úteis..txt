@@ -1,0 +1,26 @@
+Inicio no dia: 06/02/2023.
+Finalização no dia: 06/02/2023.
+
+Aulas assistidas no dia 06/02/2023:
+
+Apresentação e Visão Geral. {3} [X]
+
+Exercícios Resolvidos: Estruturas de Repetição. {6} [X]
+
+Exercícios Resolvidos: Arrays. {4} [X]
+
+
+
+
+
+
+
+
+
+
+
+Links Úteis: 
+Slides - https://drive.google.com/file/d/1xNzZ3dQMATP11Dk3HWsAWdEuJfVDpnN_/view
+Github: https://github.com/cami-la/loops-e-arrays
+
+Certificado:https://www.dio.me/certificate/8A020D43/share
