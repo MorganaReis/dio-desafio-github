@@ -1,0 +1,26 @@
+Inicio no dia: 07/02/2023.
+Finalização no dia: 07/02/2023.
+
+Aulas assistidas no dia 07/02/2023:
+
+Criação: {6} [X]
+
+Sobrecarga: {2} [X]
+
+Retornos: {3} [X]
+
+
+
+
+
+
+
+
+
+Links Úteis:
+Exercício 1: https://github.com/tlcdio/MAula01
+Exercício 2:https://github.com/tlcdio/MAula02
+Exercício 3:https://github.com/tlcdio/MAula03
+Slides: https://docs.google.com/presentation/d/1InCKAqx_Vocw9BxN95JTtcDpPnredEOa/edit
+
+Certificado:https://www.dio.me/certificate/565E5175
