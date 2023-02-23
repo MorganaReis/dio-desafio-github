@@ -1,0 +1,22 @@
+Inicio no dia: 23/02/2023.
+Finalização no dia: 23/02/2023.
+
+Aulas assistidas no dia 23/02/2023:
+
+Apresentação e visão geral: [1] {X}
+
+Pilha de execução de um programa java: [1] {X}
+
+Debugging na ide intellij: [1] {X}
+
+Debugging na ide eclipse: [1] {X}
+
+
+
+
+
+
+Links úteis: 
+Github: http://github.com/cami-la/debugging-java
+
+Certificado:https://dio.me/certificate/1EB47EA6
