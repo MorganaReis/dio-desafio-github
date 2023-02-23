@@ -1,0 +1,29 @@
+Inicio no dia: 16/02/2023.
+Finalização no dia: 16/02/2023.
+
+Aulas assistidas no dia 16/02/2023:
+
+Introdução do curso. {2} [X]
+
+Lists. {6} [X]
+
+Map. {5} [X]
+
+Aulas assistidas no dia 23/02/2023:
+
+Stream. {6} [X]
+
+
+
+
+
+
+Links úteis:
+Slides introdução: https://drive.google.com/file/d/1orwSu9ravNsw_SAHRaCMtd8Fvc3Qrsof/view
+Slides visão geral:https://drive.google.com/file/d/1kaAIEkaTt3q1rof6OFOb5XVgf25IDXf7/view
+Slides lists: https://drive.google.com/file/d/1tFsgADr5gYFEa4fQS0XzpK8i4ADqt95W/view
+Slides set: https://drive.google.com/file/d/1tS3Np0gVTBbfr9CyOjgevsjjNd083peY/view
+Slides map:https://drive.google.com/file/d/1u02CyiElDJR4wmDQ8vq3aNYe10-iSVt-/view
+Slides stream:https://drive.google.com/file/d/10-98R_8p6kS3fvsBm-Tkt3MHNIEuz3yy/view
+
+Certificado:https://digitalinnovation.one/certificate/BE41C884
