@@ -1,0 +1,26 @@
+Inicio no dia: 26/02/2023.
+Finalização no dia: 26/02/2023.
+
+Aulas assistidas no dia 26/02/2023:
+
+Apresentação e visão geral. {2} [X]
+
+Unchecked exception. {1} [X]
+
+Checked exception. {2} [X]
+
+Exception personalizada. {2} [X]
+
+Encerramento do curso. {1} [X]
+
+
+
+
+
+
+Links úteis:https://docs.google.com/presentation/d/1CQDNDFG4y4QVw626jdkuNNWbYG6GKER8/edit#slide=id.p2
+https://github.com/cami-la/exceptions-java
+
+
+
+Certificado:https://www.dio.me/certificate/E603263B
